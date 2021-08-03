@@ -7,6 +7,9 @@
  
  <a href="https://filezeed.s3.us-west-1.wasabisys.com/aTPqrxCrES.jpg"><img src="https://filezeed.s3.us-west-1.wasabisys.com/aTPqrxCrES.jpg" align="center" height="500" width="400" ></a>
  
+ 
+ 
+ 
  ### :blue_heart: Social Media :blue_heart:
  :point_right: [Facebook](https://web.facebook.com/boat.pawarison.57270) <br>
  :point_right: [Instagram](https://www.instagram.com/boat_pawarisorn/) <br>
@@ -14,8 +17,10 @@
  
  
  
- ##### "ฉันไม่ได้มีพรสวรรค์ติดตัวมาตั้งแต่เกิด แต่ฉันสร้างมันด้วยความพยายามและไม่เคยท้อถอย"
+ 
+ 
  #### "I was not born with a whole lot of natural talent,not gifted but I work hard and I nerver give up!"
+ ##### "ฉันไม่ได้มีพรสวรรค์ติดตัวมาตั้งแต่เกิด แต่ฉันสร้างมันด้วยความพยายามและไม่เคยท้อถอย"
  
  
 <!--
