@@ -6,7 +6,7 @@
  ผมเป็นคนที่ขยัน เรียนรู้งานได้เร็ว ทำงานเป็นทีมได้ดี มีความคิดสร้างสรรค์สิ่งใหม่ ๆ และพัฒนาตัวเองอย่างสม่ำเสมอ <br>
  
  
- ![Pawarisorn](https://filezeed.s3.us-west-1.wasabisys.com/aTPqrxCrES.jpg)
+ ![Pawarisorn](https://filezeed.s3.us-west-1.wasabisys.com/aTPqrxCrES.jpg height="48" width="48" )
  
  
 <!--
