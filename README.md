@@ -12,8 +12,10 @@
  :point_right: [Instagram](https://www.instagram.com/boat_pawarisorn/) <br>
  :point_right: [Line](https://line.me/ti/p/8HkfusTOhn) <br>
  
+ 
+ 
  ##### "ฉันไม่ได้มีพรสวรรค์ติดตัวมาตั้งแต่เกิด แต่ฉันสร้างมันด้วยความพยายามและไม่เคยท้อถอย"
- ##### "I was not born with a whole lot of natural talent,not gifted but I work hard and I nerver give up!"
+ #### "I was not born with a whole lot of natural talent,not gifted but I work hard and I nerver give up!"
  
  
 <!--
