@@ -7,7 +7,7 @@
  
  <a href="https://filezeed.s3.us-west-1.wasabisys.com/aTPqrxCrES.jpg"><img src="https://filezeed.s3.us-west-1.wasabisys.com/aTPqrxCrES.jpg" align="center" height="500" width="400" ></a>
  
- ### Social Media
+ ### :blue_heart: Social Media :blue_heart:
  :point_right: [Facebook](https://web.facebook.com/boat.pawarison.57270) <br>
  :point_right: [Instagram](https://www.instagram.com/boat_pawarisorn/) <br>
  :point_right: [Line](https://line.me/ti/p/8HkfusTOhn) <br>
