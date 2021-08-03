@@ -5,9 +5,7 @@
  ให้ผู้ที่ได้เข้ามาใช้งานสะดวกสบายในการใช้งาน ไม่ยุ่งยากและซับซ้อนเกินไป <br>
  ผมเป็นคนที่ขยัน เรียนรู้งานได้เร็ว ทำงานเป็นทีมได้ดี มีความคิดสร้างสรรค์สิ่งใหม่ ๆ และพัฒนาตัวเองอย่างสม่ำเสมอ <br>
  
- 
- ![Pawarisorn](https://filezeed.s3.us-west-1.wasabisys.com/aTPqrxCrES.jpg height="48" width="48" )
- <a href="https://filezeed.s3.us-west-1.wasabisys.com/aTPqrxCrES.jpg"><img src="https://filezeed.s3.us-west-1.wasabisys.com/aTPqrxCrES.jpg" align="left" height="48" width="48" ></a>
+ <a href="https://filezeed.s3.us-west-1.wasabisys.com/aTPqrxCrES.jpg"><img src="https://filezeed.s3.us-west-1.wasabisys.com/aTPqrxCrES.jpg" align="left" height="200" width="100" ></a>
  
  
 <!--
