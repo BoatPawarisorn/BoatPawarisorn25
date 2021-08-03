@@ -7,6 +7,7 @@
  
  
  ![Pawarisorn](https://filezeed.s3.us-west-1.wasabisys.com/aTPqrxCrES.jpg height="48" width="48" )
+ <a href="https://filezeed.s3.us-west-1.wasabisys.com/aTPqrxCrES.jpg"><img src="https://filezeed.s3.us-west-1.wasabisys.com/aTPqrxCrES.jpg" align="left" height="48" width="48" ></a>
  
  
 <!--
