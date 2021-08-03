@@ -12,6 +12,9 @@
  :point_right: [Instagram](https://www.instagram.com/boat_pawarisorn/) <br>
  :point_right: [Line](https://line.me/ti/p/8HkfusTOhn) <br>
  
+ ## "ฉันไม่ได้มีพรสวรรค์ติดตัวมาตั้งแต่เกิด <br>
+ ## แต่ฉันสร้างมันด้วยความพยายามและไม่เคยท้อถอย"
+ 
  
 <!--
 **BoatPawarisorn25/BoatPawarisorn25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
